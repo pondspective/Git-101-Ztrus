@@ -1,2 +1,4 @@
-def hell_git():
+def hello_git():
     print("Hello Git!")
+
+hello_git()
